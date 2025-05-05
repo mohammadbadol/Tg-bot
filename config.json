@@ -3,7 +3,7 @@
   "fb_ID":"ADD_YOUR_FACEBOOK_ID",
   "adminName": "𝐄𝐝𝐢𝐭𝐨𝐫 𝐁𝐀𝐃𝐎𝐋",
   "botName": "ᏋᎴᎥᏖᎧᏒ ᏰᏗᎴᎧᏝ",
-  "token": "ADD_YOUR_BOT_TOKEN_HERE",
+  "token": "7558862911:AAGzMQ8lAZYdKlmLAycObE6VOJCh3gJh30M",
 "mongodbURI":"mongodb+srv://userg4185:zWfR3c1ez5zpAUj0@cluster0.mfbe2.mongodb.net/botbee?retryWrites=true&w=majority&appName=Cluster0",
   "notes":"ADD_YOUR_MONGO_DB_URI for fast response. and if you don't know how to collect mongo uri then see this For database. MongooDB uri => https://drive.google.com/file/d/10AxcIiFQuI9S2gMBwV_i4U8UogMJX8pD/view?usp=drivesdk",
   "prefix": ".",
